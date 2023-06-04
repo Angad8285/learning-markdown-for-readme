@@ -5,10 +5,9 @@
 Internet Relay Chat is a forum made for group discussions made and popular in pre-socical media era. IRC servers usually follow TCP protocols and a tree topology. In today's world this is a very obsolete technology but it helps to learn the basics of how messages are commuted between computers connected on a local area network.
 
 ## Intended functionalities
-+ build a decentralised chatting platform
-+ commands and channels
-+ be able to connect to computers connected on same LAN
-+ handle multiple clients
++ build a decentralised chatting platform using socket programming in C language
++ implement commands, different chatrooms and channels in the IRC
++ handle multiple clients using a tree topology
 
 ## Environment Setup
 
