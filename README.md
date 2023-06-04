@@ -35,3 +35,10 @@ Environment setup is simple, you just need to setup gcc to compile c programs.
     - `.path/to/output portNumber` (for severside files)
     - `./path/to/output ipAddress portNumber` (for clientside files)
 
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
