@@ -31,4 +31,4 @@ Environment setup is simple, you just need to setup gcc to compile c programs.
   `gcc path/to/c/file.c -o path/to/output` (for compilation)
 
   `.path/to/output portNumber` (to run server)
-  `./path/to/output ipAddress portNumber` (to run client)# learning-markdown-for-readme
+  `./path/to/output ipAddress portNumber` (to run client)
